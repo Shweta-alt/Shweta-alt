@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shweta-alt
 - 👀 I’m interested in Learning.
-- 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to be a part of my dream company.
+- 🌱 I’m currently working as an IT Support Engineer.
+- 💞️ Love to be on TECH side.
 - 📫 How to reach me at shwetarao7237@gmail.com
 - PROJECTS : -
 - https://shweta-alt.github.io/Weather.js/
