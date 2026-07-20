@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shweta-alt
-- 👀 I’m interested in Learning.
-- 🌱 I’m currently working as a Cloud Infrastructure Engineer.
+- 👀 I’m learning Devops.
+- 🌱 I’m currently working as a AWS Administrator.
 - 💞️ Love to be on TECH side.
 - 📫 Reach me at shwetarao371@gmail.com
 - PROJECTS : -
